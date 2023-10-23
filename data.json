@@ -1,0 +1,18 @@
+{
+    "usuarios": {},
+    "administrador": {
+        "66666": {
+            "nome": "Administrador",
+            "infos": {
+                "Email": "admin@reuse.com"
+            }
+        }
+    },
+    "cotacao_pontos": {
+        "Papel": 20,
+        "Pl\u00e1stico": 25,
+        "Vidro": 15,
+        "Metal": 10,
+        "Eletr\u00f4nicos": 30
+    }
+}
